@@ -23,6 +23,6 @@ Live: http://web.stanford.edu/class/cs147/projects/STUDIO_NAME/amicus/ (update o
 
 ## Checkpoint (Oct 29-30)
 - [ ] Site live at the team URL
-- [ ] A1 slides linked
-- [ ] A2 slides linked
-- [ ] A4 slides and concept video (embedded, YouTube, download)
+- [✔] A1 slides linked
+- [✔] A2 slides linked
+- [✔] A4 slides and concept video (embedded, YouTube, download)
